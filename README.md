@@ -3,7 +3,7 @@
 I'm Web developer, I like sushi. :sushi:
 
 <!--マイSNS-->
-:yum: I'm SNS:
+:yum: My SNS:
 <p align="left">
   <!--Qita-->
   <a href="https://qiita.com/Rairu_blog"　target="_blank">
