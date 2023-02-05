@@ -71,6 +71,7 @@ I'm Web developer, I like sushi. :sushi:
 * [今際の路のアリス](https://booklive.jp/product/index/title_id/353997/vol_no/001)
 * [約束のネバーランド](https://booklive.jp/product/index/title_id/416028/vol_no/001)
 * [トリコ](https://booklive.jp/product/index/title_id/184975/vol_no/001)
+* [東京リベンジャーズ](https://booklive.jp/product/index/title_id/60006369/vol_no/001)
 * [神様の言うとおり](https://booklive.jp/product/index/title_id/151730/vol_no/001)
 * [暗殺教室](https://booklive.jp/product/index/title_id/197745/vol_no/001)
 * [リアルアカウント](https://booklive.jp/product/index/title_id/260889/vol_no/001)
