@@ -6,15 +6,15 @@ I'm Web developer, I like sushi. :sushi:
 :yum: I'm SNS:
 <p align="left">
   <!--Qita-->
-  <a href="https://qiita.com/Rairu_blog">
+  <a href="https://qiita.com/Rairu_blog"　target="_blank">
     <img height="30" width="30"
     src="https://github.com/junichmiyahara/junichmiyahara/blob/master/Qita%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?" /> 　　
   </a>
-  <a href="http://qiita.com/Rairu_blog">
+  <a href="http://qiita.com/Rairu_blog"　target="_blank">
    <img height="30" src="https://qiita-badge.apiapi.app/s/Rairu_blog/posts.svg" />
   </a>
   <!--Twitter-->
-  <a href="https://twitter.com/Rairu_dev">
+  <a href="https://twitter.com/Rairu_dev"　target="_blank">
    <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
@@ -60,5 +60,22 @@ I'm Web developer, I like sushi. :sushi:
 [![trophy](https://github-profile-trophy.vercel.app/?username=junichmiyahara)](https://github.com/junichmiyahara/github-profile-trophy)
 
 <br>
+<!--アニメ画像-->
+<img src="https://github.com/junichmiyahara/junichmiyahara/blob/master/%E4%BA%94%E6%9D%A1%E6%82%9F%E7%94%BB%E5%83%8F.jpg" width="500">
 
-<img src="https://www.google.com/search?q=%E4%BA%94%E6%9D%A1%E3%80%80%E3%81%93%E3%81%86%E7%94%BB%E5%83%8F&tbm=isch&ved=2ahUKEwjDjbGY8P38AhWKsVYBHch5BXIQ2-cCegQIABAA&oq=%E4%BA%94%E6%9D%A1%E3%80%80%E3%81%93%E3%81%86%E7%94%BB%E5%83%8F&gs_lcp=CgNpbWcQAzoECCMQJzoHCCMQ6gIQJzoKCAAQBBCABBCxAzoICAAQsQMQgwE6BggAEAQQAzoHCAAQBBCABDoNCAAQBBCABBCxAxCDAToLCAAQgAQQsQMQsQM6EQgAEIAEELEDEIMBELEDEIMBOgQIABADOgUIABCABDoPCAAQBBCABBCxAxCxAxAlOgkIABAEEIAEECU6DAgAEAQQgAQQsQMQJToFCAAQsQM6CQgAEAQQgAQQGFCOBFiLWWCFXWgHcAB4AoABkQGIAcAYkgEFMTMuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=JV3fY4PnGYrj2roPyPOVkAc&bih=826&biw=1920&hl=ja#imgrc=gBa1F_S13J0cKM&imgdii=R6WrS-V2N8A_WM" width="500">
+<details>
+<summary>:book: List Favorites Manga</summary>
+
+* [今際の国のアリス](https://booklive.jp/product/index/title_id/189751/vol_no/001)
+* [トモダチゲーム](https://booklive.jp/product/index/title_id/255832/vol_no/001)
+* [今際の路のアリス](https://booklive.jp/product/index/title_id/353997/vol_no/001)
+* [約束のネバーランド](https://booklive.jp/product/index/title_id/416028/vol_no/001)
+* [トリコ](https://booklive.jp/product/index/title_id/184975/vol_no/001)
+* [神様の言うとおり](https://booklive.jp/product/index/title_id/151730/vol_no/001)
+* [暗殺教室](https://booklive.jp/product/index/title_id/197745/vol_no/001)
+* [リアルアカウント](https://booklive.jp/product/index/title_id/260889/vol_no/001)
+* [ドクムシ](https://booklive.jp/product/index/title_id/265841/vol_no/001)
+* [メジャー](https://booklive.jp/product/index/title_id/182982/vol_no/001)
+* [アイシールド21](https://booklive.jp/product/index/title_id/251034/vol_no/001)
+* [王様ゲーム](https://booklive.jp/product/index/title_id/138652/vol_no/001)
+</details>
