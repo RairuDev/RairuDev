@@ -2,6 +2,17 @@
 
 I'm Web developer, I like sushi. :sushi:
 
+<!--マイSNS-->
+My SNS :yum:
+<p align="left">
+  <!--Qita-->
+
+  <!--Twitter-->
+  <a href="https://twitter.com/Rairu_dev"　target="_blank">
+   <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+</p>
+<!--マイSNS-->
 
 <!--マイプログラミング言語-->
 :page_with_curl: I'm currently learning:
