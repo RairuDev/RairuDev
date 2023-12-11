@@ -2,24 +2,6 @@
 
 I'm Web developer, I like sushi. :sushi:
 
-<!--マイSNS-->
-My SNS :yum:
-<p align="left">
-  <!--Qita-->
-  <a href="https://qiita.com/Rairu_blog"　target="_blank">
-    <img height="30" width="30"
-    src="https://github.com/junichmiyahara/junichmiyahara/blob/master/Qita%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?" /> 　　
-  </a>
-  <a href="http://qiita.com/Rairu_blog"　target="_blank">
-   <img height="30" src="https://qiita-badge.apiapi.app/s/Rairu_blog/posts.svg" />
-  </a>
-  <!--Twitter-->
-  <a href="https://twitter.com/Rairu_dev"　target="_blank">
-   <img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
-</p>
-<!--マイSNS-->
-
 <!--マイプログラミング言語-->
 :page_with_curl: I'm currently learning:
 <br><br>
