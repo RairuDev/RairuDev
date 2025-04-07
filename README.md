@@ -2,13 +2,23 @@
 
 I'm Web developer, I like sushi. :sushi:
 
+![](https://komarev.com/ghpvc/?username=RairuDev)
 
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RairuDev&show_icons=true&theme=dracula)
+-->
+
+<!-- [![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-output/nord_bright/4-productive-time.svg) -->
 <!--Github Stats-->
-:trophy: Github Stats
+<!-- :trophy: Github Stats -->
 ![Jun's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RairuDev)
 
 <!--Github trophy-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=RairuDev)](https://github.com/RairuDev/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=RairuDev)](https://github.com/RairuDev/github-profile-trophy) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RairuDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
@@ -16,9 +26,6 @@ I'm Web developer, I like sushi. :sushi:
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=RairuDev&theme=juicyfresh&no-bg=true" /> -->
-
-
-## Profile
 
 
 <p align="left">
@@ -38,7 +45,7 @@ I'm Web developer, I like sushi. :sushi:
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/RairuDev/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/RairuDev/RairuDev/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
 
