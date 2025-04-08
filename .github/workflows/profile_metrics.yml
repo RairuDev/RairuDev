@@ -50,3 +50,17 @@ jobs:
         plugin_habits_languages_limit: 8 # 表示する言語数の制限
         plugin_habits_languages_threshold: "2%"  # 表示する言語の最小使用率
         config_timezone: Asia/Tokyo     # タイムゾーンを設定
+
+    - name: Anilist Metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: profile-metrics-output/metrics.plugin.anilist.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_anilist: yes
+        plugin_anilist_user: RairuDev    # あなたのAniListのユーザー名に変更してください
+        plugin_anilist_medias: anime, manga
+        plugin_anilist_sections: favorites, watching, reading
+        plugin_anilist_limit: 10           # 表示するアニメ/マンガの数
+        plugin_anilist_limit_characters: 10  # 表示するキャラクターの数
+        plugin_anilist_shuffle: yes      # 表示をシャッフル
