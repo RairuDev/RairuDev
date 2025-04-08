@@ -36,3 +36,17 @@ jobs:
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
+    - name: Coding Habits Metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: profile-summary-card-output/metrics.plugin.habits.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        base: ""
+        plugin_habits: yes
+        plugin_habits_facts: yes        # 興味深い事実を表示
+        plugin_habits_charts: yes       # アクティビティチャートを表示
+        plugin_habits_trim: yes         # 未使用の時間を省略
+        plugin_habits_days: 14          # 過去14日分のデータを分析
+        plugin_habits_languages_limit: 8 # 表示する言語数の制限
+        plugin_habits_languages_threshold: "2%"  # 表示する言語の最小使用率
+        config_timezone: Asia/Tokyo     # タイムゾーンを設定
