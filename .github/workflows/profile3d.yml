@@ -24,6 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          OUTPUT_DIR: "profile-3d-contrib-output"
       - name: Commit & Push
         run: |
           git config user.name github-actions
