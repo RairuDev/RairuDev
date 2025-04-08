@@ -19,13 +19,13 @@ jobs:
     - name: Default metrics
       uses: lowlighter/metrics@latest
       with:
-        filename: profile-summary-card-output/metrics.base.svg
+        filename: profile-metrics-output/metrics.base.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: header, activity, community, repositories, metadata
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
-        filename: profile-summary-card-output/details.svg
+        filename: profile-metrics-output/details.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone, PL0-compiler
@@ -39,7 +39,7 @@ jobs:
     - name: Coding Habits Metrics
       uses: lowlighter/metrics@latest
       with:
-        filename: profile-summary-card-output/metrics.plugin.habits.svg
+        filename: profile-metrics-output/metrics.plugin.habits.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_habits: yes

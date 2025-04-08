@@ -8,11 +8,11 @@ I'm Web developer, I like sushi. :sushi:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RairuDev&show_icons=true&theme=dracula)
 -->
 
-<!-- [![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-summary-card-output/nord_bright/4-productive-time.svg) -->
+<!-- [![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-metrics-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-metrics-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-metrics-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-metrics-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/RairuDev/RairuDev/main/profile-summary-card-profile-metrics-output/nord_bright/4-productive-time.svg) -->
 <!--Github Stats-->
 <!-- :trophy: Github Stats -->
 ![Jun's GitHub stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RairuDev)
@@ -30,22 +30,22 @@ I'm Web developer, I like sushi. :sushi:
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/metrics.base.svg" width="400" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-summary-card-output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-metrics-output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-metrics-output/metrics.base.svg" width="400" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-metrics-output-3d-contrib/day.svg" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/details.svg" width="400" />
-    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-summary-card-output-3d-contrib/day.svg" />
+   	<source media="(prefers-color-scheme: dark)" srcset="profile-metrics-output/details.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-metrics-output/details.svg" width="400" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-metrics-output-3d-contrib/day.svg" />
   </picture>
 </p>
 
 <p align="left" >
 	<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
-    <img alt="github profile contributions chart" src="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-metrics-output/metrics.plugin.habits.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-metrics-output/metrics.plugin.habits.svg" width="400" />
+    <img alt="github profile contributions chart" src="profile-metrics-output/metrics.plugin.habits.svg" width="400" />
 	</picture>
 </p>
 
