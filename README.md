@@ -43,16 +43,17 @@ I'm Web developer, I like sushi. :sushi:
 
 <p align="left" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-summary-card-output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
+    <img alt="github profile contributions chart" src="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
 	</picture>
-</p>　
+</p>
 
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="profile-summary-card-output/metrics.plugin.habits.svg" width="400" />
-  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/RairuDev/RairuDev/profile-summary-card-output-3d-contrib/day.svg" />
-</picture>
+<p align="left" >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+    <img alt="github profile contributions chart" src="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+  </picture>
+</p>
 
